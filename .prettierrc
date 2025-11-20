@@ -1,0 +1,3 @@
+ { "singleQuote": true, "semi": true, "trailingComma": "all", "printWidth": 100, "tabWidth": 2, "arrowParens": "always" }
+.prettierignore を作成 node_modules dist .build coverage
+任意: VSCode の保存時整形 .vscode/settings.json { "editor.formatOnSave": true, "editor.defaultFormatter": "esbenp.prettier-vscode" }
